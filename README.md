@@ -1,5 +1,5 @@
 from googletrans import Translator, LANGUAGES
-from termcolor import colored
-import sys
-import random
-import time
+
+pip install googletrans==4.0.0-rc1
+
+pip install termcolor
